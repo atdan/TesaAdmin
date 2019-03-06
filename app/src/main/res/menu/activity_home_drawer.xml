@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Courses"
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_library_books_black_24dp"/>
+
+        <item android:id="@+id/nav_lecturers"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="Lecturers"/>
+
+        <item android:id="@+id/nav_departmental"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Departmental Executives"/>
+
+        <item android:id="@+id/nav_faculty"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Faculty Executives"/>
+
+        <item android:id="@+id/nav_upload"
+            android:icon="@drawable/ic_file_upload_black_24dp"
+            android:title="Upload"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_aboutUs"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About US"/>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

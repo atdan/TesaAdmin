@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "829174932243",
+    "firebase_url": "https://tesa-admin.firebaseio.com",
+    "project_id": "tesa-admin",
+    "storage_bucket": "tesa-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829174932243:android:35a338aa5351fc46",
+        "android_client_info": {
+          "package_name": "com.example.root.tesaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829174932243-aq6fs23be2a5na2iec6fgriv5dg5jn7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.tesaadmin",
+            "certificate_hash": "f6c8862c0b558b9ce56d9e1359d047263812713a"
+          }
+        },
+        {
+          "client_id": "829174932243-g6idgqrn5b9m90736s67ds1bf31m1nc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j-uBRVPP_CguhpfCk53UfHcV0JBMKbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829174932243-g6idgqrn5b9m90736s67ds1bf31m1nc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
